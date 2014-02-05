@@ -6,7 +6,10 @@ function parrot {
 
 
 function addstuff {
-    echo "Test"
+    a=`expr $1 + $2`
+    echo $a
 }
 
 parrot "Fixed bug"
+
+addstuff 1 3
