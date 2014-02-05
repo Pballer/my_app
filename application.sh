@@ -5,4 +5,8 @@ function parrot {
 }
 
 
+function addstuff {
+    echo "Test"
+}
+
 parrot "Hello"
