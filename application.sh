@@ -5,4 +5,4 @@ function parrot {
 }
 
 
-parrot "Hello"
+parrot "Fixed bug"
