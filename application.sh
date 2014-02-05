@@ -9,4 +9,4 @@ function addstuff {
     echo "Test"
 }
 
-parrot "Hello"
+parrot "Fixed bug"
